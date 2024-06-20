@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QUIZFA" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/quizfa_primary</item>
+        <item name="colorOnPrimary">@color/quizfa_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/quizfa_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/quizfa_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/quizfa_secondary</item>
+        <item name="colorOnSecondary">@color/quizfa_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/quizfa_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/quizfa_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/quizfa_tertiary</item>
+        <item name="colorOnTertiary">@color/quizfa_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/quizfa_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/quizfa_onTertiaryContainer</item>
+        <item name="colorError">@color/quizfa_error</item>
+        <item name="colorOnError">@color/quizfa_onError</item>
+        <item name="colorErrorContainer">@color/quizfa_errorContainer</item>
+        <item name="colorOnErrorContainer">@color/quizfa_onErrorContainer</item>
+        <item name="android:colorBackground">@color/quizfa_background</item>
+        <item name="colorOnBackground">@color/quizfa_onBackground</item>
+        <item name="colorSurface">@color/quizfa_surface</item>
+        <item name="colorOnSurface">@color/quizfa_onSurface</item>
+        <item name="colorSurfaceVariant">@color/quizfa_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/quizfa_onSurfaceVariant</item>
+        <item name="colorOutline">@color/quizfa_outline</item>
+        <item name="colorOutlineVariant">@color/quizfa_outlineVariant</item>
+        <item name="colorSurfaceInverse">@color/quizfa_inverseSurface</item>
+        <item name="colorOnSurfaceInverse">@color/quizfa_inverseOnSurface</item>
+        <item name="colorPrimaryInverse">@color/quizfa_inversePrimary</item>
+        <item name="colorPrimaryFixed">@color/quizfa_primaryFixed</item>
+        <item name="colorOnPrimaryFixed">@color/quizfa_onPrimaryFixed</item>
+        <item name="colorPrimaryFixedDim">@color/quizfa_primaryFixedDim</item>
+        <item name="colorOnPrimaryFixedVariant">@color/quizfa_onPrimaryFixedVariant</item>
+        <item name="colorSecondaryFixed">@color/quizfa_secondaryFixed</item>
+        <item name="colorOnSecondaryFixed">@color/quizfa_onSecondaryFixed</item>
+        <item name="colorSecondaryFixedDim">@color/quizfa_secondaryFixedDim</item>
+        <item name="colorOnSecondaryFixedVariant">@color/quizfa_onSecondaryFixedVariant</item>
+        <item name="colorTertiaryFixed">@color/quizfa_tertiaryFixed</item>
+        <item name="colorOnTertiaryFixed">@color/quizfa_onTertiaryFixed</item>
+        <item name="colorTertiaryFixedDim">@color/quizfa_tertiaryFixedDim</item>
+        <item name="colorOnTertiaryFixedVariant">@color/quizfa_onTertiaryFixedVariant</item>
+        <item name="colorSurfaceDim">@color/quizfa_surfaceDim</item>
+        <item name="colorSurfaceBright">@color/quizfa_surfaceBright</item>
+        <item name="colorSurfaceContainerLowest">@color/quizfa_surfaceContainerLowest</item>
+        <item name="colorSurfaceContainerLow">@color/quizfa_surfaceContainerLow</item>
+        <item name="colorSurfaceContainer">@color/quizfa_surfaceContainer</item>
+        <item name="colorSurfaceContainerHigh">@color/quizfa_surfaceContainerHigh</item>
+        <item name="colorSurfaceContainerHighest">@color/quizfa_surfaceContainerHighest</item>
+    </style>
+
+    <style name="Theme.QUIZFA" parent="Base.Theme.QUIZFA">
+        <item name="android:fontFamily">@font/quizopensans</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Family Archive</string>
+    <string name="app_version" translatable="false">" 0.1"</string>
+    <string name="welcome_picture" translatable="false">Welcome picture</string>
+    <string name="continue_button_text">Continue</string>
+</resources>
